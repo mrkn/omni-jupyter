@@ -1,0 +1,4 @@
+deb http://ppa.launchpad.net/staticfloat/juliareleases/ubuntu trusty main
+deb-src http://ppa.launchpad.net/staticfloat/juliareleases/ubuntu trusty main
+deb http://ppa.launchpad.net/staticfloat/julia-deps/ubuntu trusty main
+deb-src http://ppa.launchpad.net/staticfloat/julia-deps/ubuntu trusty main
